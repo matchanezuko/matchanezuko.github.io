@@ -17,8 +17,6 @@ weibo_username: HangWalker
 zhihu_username: Matchanezuko
 github_username: matchanezuko
 twitter_username: @matchanezuko
-#facebook_username:
-#linkedin_username:
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -91,12 +89,12 @@ page-mathjax: false
 # Friends
 friends:
   [
-    #{ title: "乱序（Midare）", href: "http://mida.re/" },
-    #{ title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    #{ title: "Kun Qian", href: "http://kunq.me" },
-    #{ title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    #{ title: "SmdCn", href: "http://blog.smdcn.net" },
-    #{ title: "JiyinYiyong", href: "http://tiye.me/" },
-    #{ title: "DHong Say", href: "http://dhong.co" },
-    #{ title: "尹峰以为", href: "http://ingf.github.io/" },
+    { title: "乱序（Midare）", href: "http://mida.re/" },
+    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
+    { title: "Kun Qian", href: "http://kunq.me" },
+    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
+    { title: "SmdCn", href: "http://blog.smdcn.net" },
+    { title: "JiyinYiyong", href: "http://tiye.me/" },
+    { title: "DHong Say", href: "http://dhong.co" },
+    { title: "尹峰以为", href: "http://ingf.github.io/" },
   ]
